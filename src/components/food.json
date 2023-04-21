@@ -1,0 +1,75 @@
+[
+    {
+        "id": 1,
+        "tieude":"Vietnamese Sandwich",
+        "trichdan":"The French may have brought with them the baguette, but Vietnam takes it to a different level",
+        "noidung":"The French may have brought with them the baguette, but Vietnam takes it to a different level. How exactly depends on what end of the country you're in. In the north, chefs stick to the basic elements of carbohydrate, fat and protein -- bread, margarine and pata -- but head south and your banh mi may contain a more colorful combination of cheese, cold cuts, pickled vegetables, sausage, fried egg, fresh cilantro and chili sauce.",
+        "price":"$1",
+        "anh":"https://i.pinimg.com/564x/fb/21/82/fb218225277b66c6db470c6de3c15b2a.jpg"
+    },
+    {
+        "id": 2,
+        "tieude":"Beef Pho",
+        "trichdan":"Chicken Rice in Hoi An is a very typical dish of this ancient city, and yet very different from ",
+        "noidung":"Chicken Rice in Hoi An is a very typical dish of this ancient city, and yet very different from others chicken rice in other places in the same province of Quang Nam or Da Nang. While Northern Vietnamese people like to eat the whole piece of boiled chicken thighs or chest, Hoi An people have their own way to make the chicken unforgettable with customers.Boiled chicken is cut or torn into smaller slices, seasoned with spices like salt, pepper, chilli and Vietnamese coriander - the main factor that makes the dish savory. Combine perfectly with chicken slices, the golden rice made in pilaf form complete the wonderful dish. The rice in this set is cooked with chicken broth, with a dash of fresh turmeric to give it a glossy yellow colour. The small bit of greasiness promises a memorable savour to diners.",
+        "price":"$2",
+        "anh":"https://i.pinimg.com/564x/ad/be/92/adbe923c75c2eb06f6773fdec0239de2.jpg"
+    },
+    {
+        "id": 3,
+        "tieude":"Hoi An Chicken Rice",
+        "trichdan":"What list of Vietnamese cuisine would be complete without pho?",
+        "noidung":"What list of Vietnamese cuisine would be complete without pho?It's almost impossible to walk a block in Vietnam's major destinations without bumping into a crowd of hungry patrons slurping noodles at a makeshift pho stand. This simple staple consisting of a salty broth, fresh rice noodles, a sprinkling of herbs and chicken or beef, features predominately in the local diet -- and understandably so. It's cheap, tasty, and widely available at all hours.",
+        "price":"$3",
+        "anh":"https://i.pinimg.com/564x/22/09/df/2209df8fe997f27f5d561865d544901b.jpg"
+    },
+    {
+        "id": 4,
+        "tieude":"Spicy Vietnamese Beef Stew",
+        "trichdan":"Bo Kho is a spicy and flavorful Vietnamese beef stew",
+        "noidung":"Bo Kho is a spicy and flavorful Vietnamese beef stew that makes for a pretty epic bowl of noodle soup when you’ve maybe had your fill of pho or are looking for something a little different.Bo Kho is flavored with chili, five-spice, fish sauce, lemongrass, plenty of garlic, and tomato. Its familiar red color comes from the addition of fragrant annatto, which imparts a distinctive red color! You can use or make annatto oil if you can get your hands on it, but for this recipe, I’ve used ground annatto powder and my homemade chili oil to get that spicy flavor.",
+        "price":"$2",
+        "anh":"https://i.pinimg.com/564x/6e/43/7f/6e437f09428b36cab63a218d4ae8aee6.jpg"
+    },
+    {
+        "id": 5,
+        "tieude":"Vietnamese Crepes",
+        "trichdan":"A good banh xeo is a crispy crepe bulging with pork",
+        "noidung":"A good banh xeo is a crispy crepe bulging with pork, shrimp, and bean sprouts, plus the garnish of fresh herbs that are characteristic of most authentic Vietnamese dishes. To enjoy one like a local, cut it into manageable slices, roll it up in rice paper or lettuce leaves and dunk it in whatever special sauce the chef has mixed up for you.",
+        "price":"$2",
+        "anh":"https://i.pinimg.com/564x/52/2d/60/522d60c3adbdf10504b7cb12809b7108.jpg"
+    },
+    {
+        "id": 6,
+        "tieude":"Vietnamese Pizza",
+        "trichdan":"Banh Trang Nuong, or Vietnamese Pizza, is a popular street food among young people in Vietnam",
+        "noidung":"Banh Trang Nuong, or Vietnamese Pizza, is a popular street food among young people in Vietnam. It resembles pizza with an assortment of fun toppings. However, instead of a thick dough as the base, you have a thin sheet of rice paper. Instead of tomato sauce, you have a quail or chicken egg beaten directly on top of the rice paper and spread evenly. The egg prevents the rice paper from burning, and it serves as a glue for the toppings. There's no right or wrong topping. Some people like to add a Western spin with cheese and cut-up hot dogs. Whereas I like to keep mine very traditional with exotic Southeast Asian flavors, such as fermented shrimp paste (Mam Ruoc), dried pork, and Sriracha sauce.",
+        "price":"$1",
+        "anh":"https://i.pinimg.com/564x/11/82/e2/1182e2a54d5bcc1c5b22b0eeb45f6068.jpg"
+    },
+    {
+        "id": 7,
+        "tieude":"Bun Cha (Grilled Pork with Noodle)",
+        "trichdan":"Bun Cha is supposed to originate in Hanoi, but it is also popular in many other Northern areas of Vietnam.",
+        "noidung":"Bun Cha (white rice vermicelli with grilled pork) is a very well-known local dish that is thought to be originated from Hanoi. Along with Pho, Bun Cha also stands for Hanoi’s stunning cuisine culture which is the perfect combination of rice products, meat, vegetables, herbs, spices, and local special dipping sauce. You can easily find Bun Cha in Hanoi and other big cities in Vietnam, from small street vendors to high-quality restaurants. Listed as one of the top 7 specialties of Hanoi street food, it is pity if you miss a chance to try Bun Cha when coming to Hanoi. But it is fine to taste Bun Cha in other places within Vietnam.",
+        "price":"$3",
+        "anh":"https://bunchasach.com/pic/product/06ba6b2e-9b5f-45ae-8f98-dbdc4d326ac0.jpg"
+    },
+    {
+        "id": 8,
+        "tieude":"Mi Quang (noodle soup)",
+        "trichdan":"Mi Quang is an underrated and affordable noodle dish that’s a Hanoi specialty.",
+        "noidung":"Mi Quang is an underrated and affordable noodle dish that’s a Hanoi specialty. Ingredients vary by establishment, but expect to see a simple bowl of meat noodles with additions like flavoursome oils, fresh sprigs of leaves, shrimp, peanuts, mint and quail eggs.Hanoi street food doesn’t get much better than Mi Quang, a classic Vietnamese noodle dish. It’s usually eaten as a dinnertime meal; you’ll find yourself counting down the hours until you can tuck into the turmeric-infused bone broth, yellow noodles and fragrant herbs sprinkled on top.",
+        "price":"$3",
+        "anh":"https://tiemxuquang.com/wp-content/uploads/2022/11/c498a73283be78f13e54ae01265dc225-1024x805.jpeg"
+    },
+    {
+        "id": 9,
+        "tieude":"Cá Kho Tộ Recipe – Vietnamese Caramelized & Braised Catfish",
+        "trichdan":"This was a popular dish in southern Vietnam since meat and fish were plentiful",
+        "noidung":"This was a popular dish in southern Vietnam since meat and fish were plentiful. Obviously many types of fish were available there, but certain dishes tend to stick to certain varieties or be influenced by local availability.Ca kho is a very rich and salty dish, so it goes well with many veggies to balance it out. Serve this with sliced cucumbers, boiled vegetables, or even some pickled mustard greens (dua chua) despite the salt content. If you’re an avid seafood eater like myself, you should also try making whole grilled fish.",
+        "price":"$3",
+        "anh":"https://cdn.tgdd.vn/Files/2020/04/20/1250381/2-cach-lam-ca-keo-kho-to-va-kho-lat-don-gian-thom-ngon-dam-da-huong-vi-1.jpg"
+    }
+
+]

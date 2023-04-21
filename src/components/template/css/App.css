@@ -1,0 +1,144 @@
+* {
+  margin: 0px;
+  padding: 0px;
+  font-size: 15px;
+  font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+.banner-blog{
+  position: relative;
+  margin: 10px;
+  margin-top: 5px;
+}    
+.img-banner{
+ overflow: hidden;
+ display: block;
+ width: 100%;
+ max-height: 500px;
+ background-size: 100%;
+ opacity: 0.8;
+
+}
+.text-carousel{
+  color: black;
+  font-size: 1rem;
+}
+.text-blog{
+  position: absolute; /* Position the background text */
+  bottom: 0; /* At the bottom. Use top:0 to append it to the top */
+  background: rgb(0, 0, 0); /* Fallback color */
+  background: rgba(0, 0, 0, 0.5); /* Black background with 0.5 opacity */
+  color: #f1f1f1; /* Grey text */
+  width: 100%; /* Full width */
+  padding: 10px; /* Some padding */
+}
+.navbar-toggler-icon {
+  padding: .25rem .75rem;
+  font-size: 1.25rem;
+  line-height: 1;
+  background-color: transparent;
+  border: 1px solid transparent;
+  border-radius: .25rem;
+  
+}
+
+.navbar-nav{
+  display: -ms-flexbox;
+  display: flex;
+  -ms-flex-direction: column;
+  flex-direction: column;
+  padding-left: 0;
+  margin-bottom: 0;
+  list-style: none;
+  text-align: center;
+}
+.navbar-brand{
+  font-family: Phayfair Display, serif;
+  font-size: 1rem;
+  font-style: italic;
+}
+
+.nav-link-btn {
+width: 100%;
+border-radius: 5px;
+padding-bottom: 5px;
+margin-top: 5px;
+display: flex;
+justify-content: right;
+color:none;
+}
+
+body{
+  padding: 10px;
+  margin: 10px;
+  font-size: 1rem;
+  font-weight: 400;
+  line-height: 1.5;
+  color: #212529;
+  text-align: left;
+}
+
+.img-fluid{
+  max-width: 100%;
+  vertical-align: middle;
+  margin: 5px;
+  box-sizing: border-box;
+}
+.avatar{
+  vertical-align: middle;
+  width: 100%;
+  height: auto;
+  border-radius: 50%;
+  
+}
+.info-container{
+  position: -webkit-sticky;
+  position: sticky;
+  top: 0;
+  padding: 60px;
+  font-size: 20px;
+}
+.text-info{
+  text-align: center;
+  margin-top: 5px;
+  background-color: pink;
+}
+
+.img {
+  max-width: auto;
+  height: 400px;
+}
+
+
+.thumbnail {
+  margin-bottom: 30px;
+  
+}
+#food-container{
+  width: 100%;
+  height: 500px;
+  overflow-y: scroll;
+  scroll-behavior: smooth;
+}
+
+.noidung {
+  margin-top: 30px;
+}
+
+.image-gallery {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  gap: 10px;
+}
+
+.image-gallery > li {
+  flex-basis: 350px; /* width: 350px; */
+}
+
+.image-gallery li img {
+  object-fit: cover;
+  max-width: 100%;
+  height: auto;
+  vertical-align: middle;
+  border-radius: 5px;
+}
