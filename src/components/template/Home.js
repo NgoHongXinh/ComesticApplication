@@ -4,7 +4,7 @@ import Vnmap from'./../img/vietnamese map.jpg';
 import aodai from'./../img/aodai.jpg';
 import Foods from './Foods';
 import dl from '../food.json';
-import avatar from './../img/xinh.jpg';
+import avatar from './../img/avatar.jpg';
 
 
 
@@ -14,7 +14,7 @@ class Home extends Component {
         return (
             <div className='container-fluid'>
                 <div className='row'>
-                  <div className='col-sm-3 col-md-3 col-lg-3'>
+                  <div className='col-md-3 col-lg-3'>
                     <div className='info-container'>
                       <div className='img-info'>
                           <img className='avatar' src={avatar}></img>
@@ -24,7 +24,7 @@ class Home extends Component {
                       </div> 
                     </div>
                   </div>
-                  <div className='col-sm-9 col-md-9 col-lg-9'>
+                  <div className='col-md-9 col-lg-9'>
                   <section className="section section_discover section_no-padding_bottom">
                     <div className="container">
                       <h2 className="section_heading text-center p-3" style={{backgroundColor: 'lightblue'}}>
